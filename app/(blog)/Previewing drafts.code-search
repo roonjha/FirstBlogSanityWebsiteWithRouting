@@ -1,0 +1,9 @@
+# Query: Previewing drafts
+# ContextLines: 1
+
+1 result - 1 file
+
+next-sanity-blog\app\(blog)\alert-banner.tsx:
+  32            <>
+  33:             {"c drafts. "}
+  34              <button
