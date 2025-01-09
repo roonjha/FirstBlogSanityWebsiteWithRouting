@@ -13,8 +13,8 @@ const Contact = () => {
         {/* Contact Info */}
         <div className="text-center mb-6">
           <p className="text-xl mb-2">Suleman Roonjha</p>
-          <p className="text-lg mb-2">Enrolled in GIAIC Program (7 to 10 Friday Class)</p>
-          <p className="text-lg mb-4">Email: example@mail.com</p>
+          <p className="text-lg mb-2">Enrolled in GIAIC Program (7 p.m to 10 p.m Friday Class)</p>
+          <p className="text-lg mb-4">Email: sulemangul05@gmail.com</p>
         </div>
       </div>
 
