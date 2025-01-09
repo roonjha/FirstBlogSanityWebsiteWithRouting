@@ -14,7 +14,7 @@ export default function AlertBanner() {
         GIAIC Project: Creating a Blog Website with Sanity
       </div>
 
-      {/* Separator Line */}
+     
       <hr className="border-t-2 border-gray-300 my-1" />
 
       {/* Navbar */}
