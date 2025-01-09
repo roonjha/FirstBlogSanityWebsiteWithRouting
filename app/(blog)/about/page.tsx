@@ -1,6 +1,6 @@
-import React from 'react';
-import Image from 'next/image';
-import zohaibroonjha from '../images/zohaibroonjha.jpg';  // Import image from the public folder
+import React from 'react'
+import Image from 'next/image'
+import zohaibroonjha from '../images/zohaibroonjha.jpg'  // Import image from the public folder
 
 const AboutPage = () => {
   return (
@@ -18,11 +18,11 @@ const AboutPage = () => {
         <p className="mt-4">
           I am working on a blog website using Sanity and creating more projects
           provided to me. One of the milestones is a resume builder that I created,
-          which is editable and shareable. It's a part of a hackathon project.
+          which is editable and shareable. It&apos;s a part of a hackathon project.
         </p>
       </div>
     </div>
-  );
-};
+  )
+}
 
-export default AboutPage;
+export default AboutPage
